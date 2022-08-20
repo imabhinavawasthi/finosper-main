@@ -1,0 +1,26 @@
+.profile-main{
+    color: white;
+    margin-top: 30px;
+}
+.user-pic-css-profile{
+    max-width: 100%;
+    max-height: 100%;
+    margin: 20px;
+}
+.profile-username-css{
+    margin-top: 15px;
+    
+}
+.username-profile-css{
+    color: blue;
+    font-weight: bold;
+    font-size: larger;
+    cursor: pointer;
+}
+.profile-content-css{
+    flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+}
