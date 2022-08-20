@@ -10,7 +10,7 @@ import {
   Features,
   WhatGPT3,
   Header,
-} from "./containers";
+} from "./containers"; 
 import { CTA, Brand, Navbar, Home } from "./components";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import { auth, db } from "./firebasecong/Firebasecong";
