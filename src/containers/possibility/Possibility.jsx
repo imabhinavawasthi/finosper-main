@@ -27,7 +27,7 @@ const Possibility = () => (
                 Producer Company
                 <hr className='hr-css'/>
             </div>
-            <h4><NavLink to="/services"><strong>GET STARTED NOW</strong></NavLink></h4>
+            <h4><NavLink to="/services"><strong>Start Now</strong></NavLink></h4>
         </div>
     </div>   
 );
