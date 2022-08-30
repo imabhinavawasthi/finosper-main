@@ -10,6 +10,18 @@ const About = (props) => {
       {/* <Faq/> */}
       <div className='container about-main'>
       <h1>About Page</h1>
+      <p>
+        
+        CA. Shrish Tiwari
+        <p>
+          This is Finosper Wealth management.
+        </p>
+      </p>
+      <p>
+        Kush Lalwani
+        <p>
+          </p>This is Fino mutual Fund
+      </p>
       </div>
     </div>
   )
