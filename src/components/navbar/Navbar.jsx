@@ -43,19 +43,19 @@ const Navbar = (props) => {
         </div>
         <div className="gpt3__navbar-links_container">
           <p>
-            <NavLink className="nav-link-css" to="/">Home</NavLink>
+            <NavLink className="nav-link-css" to="/">Salaried</NavLink>
           </p>
           <p>
-            <NavLink className="nav-link-css" to="/services">Services</NavLink>
+            <NavLink className="nav-link-css" to="/services">Business</NavLink>
           </p>
           <p>
-            <NavLink className="nav-link-css" to="/library">Library</NavLink>
+            <NavLink className="nav-link-css" to="/library">Charity</NavLink>
           </p>
           <p>
             <NavLink className="nav-link-css" to="/aboutus">About Us</NavLink>
           </p>
           <p>
-            <NavLink className="nav-link-css" to="/contact">Contact</NavLink>
+            <NavLink className="nav-link-css" to="/contact">Contact us</NavLink>
           </p>
         </div>
       </div>
